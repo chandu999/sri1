@@ -2,3 +2,5 @@ hai
 hari
 poni
 label
+paleti
+chandrasekhar
